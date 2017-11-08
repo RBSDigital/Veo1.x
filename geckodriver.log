@@ -1,0 +1,703 @@
+1495662619581	geckodriver	INFO	Listening on 127.0.0.1:53846
+1495662619624	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1495662621209	Marionette	INFO	Listening on port 53853
+1495662621285	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-24 14:50:21.578 plugin-container[1404:81969] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-24 14:50:21.580 plugin-container[1404:81969] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1495662637630	Marionette	INFO	New connections will no longer be accepted
+1495662683351	geckodriver	INFO	Listening on 127.0.0.1:53988
+1495662683391	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1495662684953	Marionette	INFO	Listening on port 53995
+1495662685123	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-24 14:51:25.434 plugin-container[1420:83121] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-24 14:51:25.436 plugin-container[1420:83121] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1495662697527	Marionette	INFO	New connections will no longer be accepted
+1508269528089	geckodriver	INFO	geckodriver 0.18.0
+1508269528095	geckodriver	INFO	Listening on 127.0.0.1:58683
+1508269528302	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1508269528604	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1508269528897	Marionette	INFO	Enabled via --marionette
+2017-10-17 20:45:29.769 plugin-container[60896:1648398] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-17 20:45:29.791 plugin-container[60896:1648398] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa58b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1508269530199	Marionette	INFO	Listening on port 58687
+1508269530792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508269530832	Marionette	DEBUG	Register listener.js for window 2147483649
+1508269531206	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508269532168	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508269532168	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508269533498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1508269536386	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+2017-10-17 20:46:05.692 firefox-bin[60895:1648252] IMKInputSession [0x120855bc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x113cc6be0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 20:46:14.229 firefox-bin[60895:1648252] IMKInputSession [0x120855bc0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x113cc6be0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508270439059	geckodriver	INFO	geckodriver 0.18.0
+1508270439065	geckodriver	INFO	Listening on 127.0.0.1:58814
+1508270439151	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1508270439400	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1508270439712	Marionette	INFO	Enabled via --marionette
+2017-10-17 21:00:40.575 plugin-container[60969:1679227] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f27, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-17 21:00:40.605 plugin-container[60969:1679227] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa587, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1508270440952	Marionette	INFO	Listening on port 58818
+1508270441635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508270441674	Marionette	DEBUG	Register listener.js for window 2147483649
+1508270442044	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508270451098	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508270451098	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508270452024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1508270453691	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1508274371428	geckodriver	INFO	geckodriver 0.18.0
+1508274371434	geckodriver	INFO	Listening on 127.0.0.1:59638
+1508274371627	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1508274371859	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1508274372147	Marionette	INFO	Enabled via --marionette
+2017-10-17 22:06:12.947 plugin-container[61538:1893042] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-17 22:06:12.971 plugin-container[61538:1893042] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa687, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1508274373319	Marionette	INFO	Listening on port 59642
+1508274374126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508274374163	Marionette	DEBUG	Register listener.js for window 2147483649
+1508274374595	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-10-17 22:06:15.236 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508274375430	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508274375430	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508274381468	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1508274383263	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1508274383546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-10-17 22:06:23.587 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:06:23.629 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:06:23.667 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:06:23.712 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508274383967	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508274384017	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1508274386185	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1508274386191	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508274386603	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1508274390277	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1508274390387	Marionette	DEBUG	Received DOM event "popstate" for "https://www.portalsouzacruz.com.br/#"
+1508274390486	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/#"
+1508274391483	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/#"
+1508274391484	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/#"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508274391745	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1508274392914	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1508274393179	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-10-17 22:06:33.227 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:06:33.276 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:06:33.316 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:06:33.392 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508274393662	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508274393718	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1508274396607	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1508274396614	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508274398947	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508274398954	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508274399248	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-10-17 22:06:39.291 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:06:39.340 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:06:39.379 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:06:39.437 firefox-bin[61537:1892871] IMKInputSession [0x124be77d0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x123168520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508274399700	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508274399751	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508274401908	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508274401915	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login?error=true"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508274402584	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1508274408011	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1508274408102	Marionette	INFO	New connections will no longer be accepted
+1508277429870	geckodriver	INFO	geckodriver 0.18.0
+1508277429876	geckodriver	INFO	Listening on 127.0.0.1:59873
+1508277430060	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1508277430292	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1508277430567	Marionette	INFO	Enabled via --marionette
+2017-10-17 22:57:11.369 plugin-container[61819:1972520] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-17 22:57:11.393 plugin-container[61819:1972520] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9fbb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1508277431783	Marionette	INFO	Listening on port 59877
+1508277432509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508277432540	Marionette	DEBUG	Register listener.js for window 2147483649
+1508277432882	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508277436288	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508277436288	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508277437179	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+2017-10-17 22:57:18.709 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508277439425	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1508277439738	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-10-17 22:57:19.781 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:57:19.836 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:57:19.880 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:57:19.940 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508277440212	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508277440286	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1508277440613	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1508277440614	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508277441059	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1508277446434	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1508277446594	Marionette	DEBUG	Received DOM event "popstate" for "https://www.portalsouzacruz.com.br/#"
+1508277446719	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/#"
+1508277447059	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/#"
+1508277447060	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/#"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508277447279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1508277447360	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1508277447623	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-10-17 22:57:27.664 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:57:27.712 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:57:27.749 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:57:27.824 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508277448093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508277448140	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1508277448260	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1508277448261	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508277448456	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508277448552	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508277448823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-10-17 22:57:28.858 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:57:28.901 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:57:28.941 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 22:57:29.001 firefox-bin[61818:1972354] IMKInputSession [0x1313c5040 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x1313e0d00 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508277449261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508277449308	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508277450650	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508277450651	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login?error=true"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508277450969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1508277455246	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1508277455339	Marionette	INFO	New connections will no longer be accepted
+1508277703407	geckodriver	INFO	geckodriver 0.18.0
+1508277703413	geckodriver	INFO	Listening on 127.0.0.1:60083
+1508277703491	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1508277703744	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1508277704021	Marionette	INFO	Enabled via --marionette
+2017-10-17 23:01:44.854 plugin-container[61861:1981669] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-17 23:01:44.880 plugin-container[61861:1981669] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa787, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1508277705330	Marionette	INFO	Listening on port 60087
+2017-10-17 23:01:46.075 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 23:01:46.126 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508277706141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508277706176	Marionette	DEBUG	Register listener.js for window 2147483649
+1508277706556	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508277714092	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508277714093	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508277717216	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1508277727137	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1508277727434	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-10-17 23:02:07.472 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 23:02:07.522 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 23:02:07.568 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 23:02:07.623 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508277727896	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508277727947	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1508277728436	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1508277728438	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508277728915	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1508277734148	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1508277734282	Marionette	DEBUG	Received DOM event "popstate" for "https://www.portalsouzacruz.com.br/#"
+1508277734391	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/#"
+1508277734538	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/#"
+1508277734540	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/#"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508277734779	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1508277734884	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1508277735148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-10-17 23:02:15.189 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 23:02:15.233 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 23:02:15.272 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 23:02:15.339 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508277735615	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508277735665	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1508277735856	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1508277735858	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508277736124	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508277736222	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508277736489	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-10-17 23:02:16.526 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 23:02:16.569 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 23:02:16.605 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-17 23:02:16.655 firefox-bin[61860:1981500] IMKInputSession [0x128d11500 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x11fb10640 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508277736912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508277736969	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508277737632	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508277737633	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login?error=true"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508277737989	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1508277738222	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1508277738296	Marionette	INFO	New connections will no longer be accepted
+1508925435047	geckodriver	INFO	geckodriver 0.18.0
+1508925435054	geckodriver	INFO	Listening on 127.0.0.1:50926
+1508925435250	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1508925438366	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1508925438690	Marionette	INFO	Enabled via --marionette
+2017-10-25 10:57:19.661 plugin-container[7956:7016857] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-25 10:57:19.689 plugin-container[7956:7016857] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9eab, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-25 10:57:19.796 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-25 10:57:19.981 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508925440352	Marionette	INFO	Listening on port 50930
+1508925441389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508925441422	Marionette	DEBUG	Register listener.js for window 2147483649
+1508925441880	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508925442686	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508925442686	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508925443343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1508925443419	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1508925446714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-10-25 10:57:26.759 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-25 10:57:26.811 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-25 10:57:26.918 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-25 10:57:27.061 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508925447346	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508925447388	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1508925447542	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1508925447543	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508925448213	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1508925448359	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1508925448469	Marionette	DEBUG	Received DOM event "popstate" for "https://www.portalsouzacruz.com.br/#"
+1508925448566	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/#"
+1508925448680	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/#"
+1508925448682	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/#"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508925448933	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1508925449020	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1508925449282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-10-25 10:57:29.324 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-25 10:57:29.374 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-25 10:57:29.420 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-25 10:57:29.506 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508925449796	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508925449849	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1508925449932	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1508925449934	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508925450165	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508925450245	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508925450519	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-10-25 10:57:30.554 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-25 10:57:30.605 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-25 10:57:30.658 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-10-25 10:57:30.726 firefox-bin[7955:7016687] IMKInputSession [0x12a7fd700 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12a698700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1508925450993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508925451042	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508925451218	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508925451219	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login?error=true"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508925451647	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1508925451794	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1508925451888	Marionette	INFO	New connections will no longer be accepted
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1508925508385	geckodriver	INFO	geckodriver 0.18.0
+1508925508389	geckodriver	INFO	Listening on 127.0.0.1:51034
+1508925508481	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1508925508729	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1508925509014	Marionette	INFO	Enabled via --marionette
+2017-10-25 10:58:29.836 plugin-container[7973:7019732] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-25 10:58:29.867 plugin-container[7973:7019732] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9ebb, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1508925510284	Marionette	INFO	Listening on port 51038
+1508925510982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508925511019	Marionette	DEBUG	Register listener.js for window 2147483649
+1508925511468	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508925511772	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508925511773	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508925512311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1508925512468	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1508925515760	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508925521189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508925555635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508925561111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508925561356	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508925566779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508925583845	Marionette	INFO	New connections will no longer be accepted
+1508936375493	geckodriver	INFO	geckodriver 0.18.0
+1508936375500	geckodriver	INFO	Listening on 127.0.0.1:51656
+1508936375603	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1508936375877	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1508936376187	Marionette	INFO	Enabled via --marionette
+2017-10-25 13:59:37.163 plugin-container[13757:7153064] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-25 13:59:37.182 plugin-container[13757:7153064] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9fb3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1508936377651	Marionette	INFO	Listening on port 51660
+1508936378070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508936378108	Marionette	DEBUG	Register listener.js for window 2147483649
+1508936378481	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508936379254	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508936379255	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508936379917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1508936380037	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1508936383302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508936383641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508936383690	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1508936383883	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1508936383885	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508936384472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1508936384646	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1508936384800	Marionette	DEBUG	Received DOM event "popstate" for "https://www.portalsouzacruz.com.br/#"
+1508936384950	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/#"
+1508936385061	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/#"
+1508936385063	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/#"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508936385424	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1508936385504	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1508936385791	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508936386283	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508936386327	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1508936386414	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1508936386414	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508936386644	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508936386730	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508936387010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508936387444	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508936387485	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508936387662	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login?error=true"
+1508936387663	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login?error=true"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1508936388061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1508936388281	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1508936388358	Marionette	INFO	New connections will no longer be accepted
+1510072361084	geckodriver	INFO	geckodriver 0.18.0
+1510072361088	geckodriver	INFO	Listening on 127.0.0.1:58075
+1510072364225	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510072364963	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510072365268	Marionette	INFO	Enabled via --marionette
+2017-11-07 16:32:46.153 plugin-container[68759:1849513] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 16:32:46.174 plugin-container[68759:1849513] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa487, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510072366592	Marionette	INFO	Listening on port 58082
+1510072366677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510072366714	Marionette	DEBUG	Register listener.js for window 2147483649
+1510072367084	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510072368085	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510072368085	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510072369218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1510072369715	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1510072372989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510072373318	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510072373382	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1510072373717	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1510072373718	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510072374250	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1510072375016	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1510072375124	Marionette	DEBUG	Received DOM event "popstate" for "https://www.portalsouzacruz.com.br/#"
+1510072375207	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/#"
+1510072375360	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/#"
+1510072375365	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/#"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510072375569	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1510072375667	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1510072375929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510072376363	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510072376401	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1510072376541	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1510072376542	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510072376733	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510072376823	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510072377094	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510072377461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510072377509	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510072377778	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510072377780	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login?error=true"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510072378127	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1510072378292	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1510072378362	Marionette	INFO	New connections will no longer be accepted
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510072506386	geckodriver	INFO	geckodriver 0.18.0
+1510072506390	geckodriver	INFO	Listening on 127.0.0.1:58264
+1510072506572	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510072506841	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510072507125	Marionette	INFO	Enabled via --marionette
+2017-11-07 16:35:08.124 plugin-container[68796:1854190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 16:35:08.147 plugin-container[68796:1854190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa487, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510072508519	Marionette	INFO	Listening on port 58268
+1510072509031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510072509063	Marionette	DEBUG	Register listener.js for window 2147483649
+2017-11-07 16:35:09.710 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510072509743	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510072510336	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510072510336	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510072511124	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1510072511279	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1510072514567	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-07 16:35:14.622 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 16:35:14.670 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 16:35:14.715 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 16:35:14.779 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510072515054	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510072515106	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1510072515310	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1510072515311	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510072516023	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1510072516306	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1510072516434	Marionette	DEBUG	Received DOM event "popstate" for "https://www.portalsouzacruz.com.br/#"
+1510072516576	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/#"
+1510072516677	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/#"
+1510072516679	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/#"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510072516916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1510072517009	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1510072517281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-07 16:35:17.320 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 16:35:17.364 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 16:35:17.412 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 16:35:17.498 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510072517772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510072517821	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1510072517900	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1510072517902	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510072518128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510072518221	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510072518482	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-07 16:35:18.523 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 16:35:18.565 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 16:35:18.609 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 16:35:18.672 firefox-bin[68795:1854051] IMKInputSession [0x132c15860 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x132c17520 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510072518936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510072518984	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510072519166	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510072519167	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login?error=true"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510072519550	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1510072519707	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1510072519784	Marionette	INFO	New connections will no longer be accepted
+1510095618657	geckodriver	INFO	geckodriver 0.18.0
+1510095618665	geckodriver	INFO	Listening on 127.0.0.1:59167
+1510095618888	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510095619234	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510095619572	Marionette	INFO	Enabled via --marionette
+2017-11-07 23:00:20.554 plugin-container[69894:1930840] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 23:00:20.579 plugin-container[69894:1930840] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa487, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510095621006	Marionette	INFO	Listening on port 59171
+2017-11-07 23:00:21.357 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:00:27.331 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510095627387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510095627427	Marionette	DEBUG	Register listener.js for window 2147483649
+1510095627819	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510095628905	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510095628905	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510095633671	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1510095636411	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1510095639690	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-07 23:00:39.750 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:00:39.806 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:00:39.876 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:00:39.945 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510095640219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510095640458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510095640716	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510095675153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-07 23:01:15.186 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:01:15.231 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:01:15.300 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:01:15.389 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510095675665	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510095675903	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510095676168	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510095676400	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-07 23:01:16.433 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:01:16.471 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:01:16.532 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:01:16.587 firefox-bin[69893:1930699] IMKInputSession [0x12bc8a6b0 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x12bbfe700 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510095676841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510095677073	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510095677332	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510095694426	Marionette	INFO	New connections will no longer be accepted
+1510096183114	geckodriver	INFO	geckodriver 0.18.0
+1510096183120	geckodriver	INFO	Listening on 127.0.0.1:59417
+1510096183313	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510096183569	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510096183886	Marionette	INFO	Enabled via --marionette
+2017-11-07 23:09:44.837 plugin-container[69934:1944665] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 23:09:44.857 plugin-container[69934:1944665] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa587, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510096185290	Marionette	INFO	Listening on port 59421
+1510096185773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510096185805	Marionette	DEBUG	Register listener.js for window 2147483649
+1510096186192	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510096187805	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510096187805	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+2017-11-07 23:09:51.090 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510096192312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1510096193475	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1510096196739	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-07 23:09:56.781 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:09:56.835 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:09:56.903 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:09:56.970 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510096197251	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510096197324	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1510096197673	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1510096197674	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510096198205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1510096202759	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1510096202869	Marionette	DEBUG	Received DOM event "popstate" for "https://www.portalsouzacruz.com.br/#"
+1510096202968	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/#"
+1510096203293	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/#"
+1510096203295	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/#"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510096203611	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1510096203713	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1510096203979	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-07 23:10:04.025 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:10:04.078 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:10:04.135 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:10:04.217 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510096204487	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510096204539	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1510096204782	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1510096204783	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510096205020	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510096205167	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510096205442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-07 23:10:05.475 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:10:05.521 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:10:05.581 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-07 23:10:05.643 firefox-bin[69933:1944545] IMKInputSession [0x12c9c4230 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x128de50a0 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510096205908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510096206016	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510096206473	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510096206474	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login?error=true"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510096206913	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1510096207288	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1510096207367	Marionette	INFO	New connections will no longer be accepted
+1510139402398	geckodriver	INFO	geckodriver 0.18.0
+1510139402410	geckodriver	INFO	Listening on 127.0.0.1:60520
+1510139402609	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510139402963	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510139403297	Marionette	INFO	Enabled via --marionette
+2017-11-08 11:10:04.382 plugin-container[70931:2098300] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 11:10:04.402 plugin-container[70931:2098300] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510139404833	Marionette	INFO	Listening on port 60524
+1510139405069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510139405098	Marionette	DEBUG	Register listener.js for window 2147483649
+1510139405482	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-11-08 11:10:08.228 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510139408262	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510139408262	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510139411624	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1510139415570	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1510139415858	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-08 11:10:15.904 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-08 11:10:15.958 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-08 11:10:16.023 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-08 11:10:16.090 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510139416374	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510139416431	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1510139417169	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1510139417171	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510139417682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1510139423197	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1510139423311	Marionette	DEBUG	Received DOM event "popstate" for "https://www.portalsouzacruz.com.br/#"
+1510139423434	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/#"
+1510139424268	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/#"
+1510139424269	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/#"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510139424519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login"
+1510139424821	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login"
+1510139425083	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-08 11:10:25.116 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-08 11:10:25.156 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-08 11:10:25.215 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-08 11:10:25.290 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510139425602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510139425675	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login"
+1510139426383	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login"
+1510139426385	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery.1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510139426638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510139427013	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510139427281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-08 11:10:27.314 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-08 11:10:27.364 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-08 11:10:27.422 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-11-08 11:10:27.488 firefox-bin[70930:2098130] IMKInputSession [0x121ec6110 presentFunctionRowItemTextInputViewWithEndpoint:completionHandler:] : [self textInputContext]=0x121ac9d60 *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1510139427753	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510139427804	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510139428990	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.portalsouzacruz.com.br/login?error=true"
+1510139428991	Marionette	DEBUG	Received DOM event "unload" for "https://www.portalsouzacruz.com.br/login?error=true"
+JavaScript warning: https://www.portalsouzacruz.com.br/_ui/desktop/common/scripts/jquery-2.0.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510139429404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.portalsouzacruz.com.br/"
+1510139430624	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.portalsouzacruz.com.br/"
+1510139430732	Marionette	INFO	New connections will no longer be accepted
